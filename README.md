@@ -12,7 +12,7 @@ _Source of the data:_ [**Kaggle**](https://www.kaggle.com/datasets/hansukyang/te
 
 - _Kurdish city names were spelled precisely as they appeared in the data, with no deliberate changes made._
 - _The following table lists all of the cities that were included in the dataset._
-- \*Recorded temperatures are in degrees **Celsius(°C)\***
+- _Recorded daily average temperature in degrees_ **_Celsius(°C)_**
 
 ### Kurdish Cities (in English, [**Kurdish (ku)**](https://ku.wikipedia.org/wiki/Kurmanc%C3%AE) and [**Kurdish (ckb)**](https://ckb.wikipedia.org/wiki/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%DB%8C_%D9%86%D8%A7%D9%88%DB%95%D9%86%D8%AF%DB%8C)):
 
