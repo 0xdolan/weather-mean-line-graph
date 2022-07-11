@@ -1,4 +1,4 @@
-# Mean annual temperatures for Kurdish cities between 1980-2020
+# **10 Kurdish Cities'** Mean Annual Temperatures between 1980 - 2020
 
 The mean annual temperature refers to the average of the maximum and minimum temperatures of a year.
 
@@ -12,7 +12,7 @@ The mean annual temperature refers to the average of the maximum and minimum tem
 ***Notes:***
 - *Kurdish city names were spelled precisely as they appeared in the data, with no deliberate changes made.*
 - *The following table lists all of the cities that were included in the dataset.*
-- *recorded temperatures are in degrees **Celsius(°C)***
+- *Recorded temperatures are in degrees **Celsius(°C)***
 
 ### Kurdish Cities (in English, [**Kurdish (ku)**](https://ku.wikipedia.org/wiki/Kurmanc%C3%AE) and [**Kurdish (ckb)**](https://ckb.wikipedia.org/wiki/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%DB%8C_%D9%86%D8%A7%D9%88%DB%95%D9%86%D8%AF%DB%8C)):
 
