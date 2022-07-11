@@ -20,7 +20,7 @@ As Sulaymaniyah|[**Silêmanî**](https://ku.wikipedia.org/wiki/Sil%C3%AAman%C3%A
 Diyarbakir|[**Amed**](https://ku.wikipedia.org/wiki/Amed)|ئامەد
 Kirkuk|[**Kerkûk**](https://ku.wikipedia.org/wiki/Kerk%C3%BBk)|کەرکوک
 Kayseri|[**Qeyserî**](https://ku.wikipedia.org/wiki/Qeyser%C3%AE)|قەیسەری
-Orumiyeh|[**Wirmê**](https://ku.wikipedia.org/wiki/%C3%9Brmiye)|ورمێ
+Orumiyeh|[**Ûrmiye**](https://ku.wikipedia.org/wiki/%C3%9Brmiye)|ورمێ
 
 
 [![kurdish_cities](./graphs/kurdish_cities.svg)](./graphs/kurdish_cities.pdf)
