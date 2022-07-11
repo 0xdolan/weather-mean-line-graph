@@ -4,6 +4,8 @@ The mean annual temperature refers to the average of the maximum and minimum tem
 
 *Source of the data:* [**Kaggle**](https://www.kaggle.com/datasets/hansukyang/temperature-history-of-1000-cities-1980-to-2020)
 
+![Data Info](./imgs/data_info.svg)
+
 ## Mean annual temperatures for Kurdish cities between 1980-2020
 
 
