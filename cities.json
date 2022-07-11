@@ -1,0 +1,148 @@
+{
+  "Iran": [
+    {
+      "city": "Kermānshāh",
+      "city_ascii": "Kermanshah",
+      "lat": "34.38",
+      "lng": "47.06",
+      "country": "Iran",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "admin_name": "Kermānshāh",
+      "capital": "admin",
+      "population": "828313.0",
+      "id": "1364535690",
+      "datetime": "729"
+    },
+    {
+      "city": "Orūmīyeh",
+      "city_ascii": "Orumiyeh",
+      "lat": "37.53",
+      "lng": "45.0",
+      "country": "Iran",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "admin_name": "Āz̄arbāyjān-e Gharbī",
+      "capital": "admin",
+      "population": "577307.0",
+      "id": "1364158221",
+      "datetime": "949"
+    }
+  ],
+  "Iraq": [
+    {
+      "city": "Dahūk",
+      "city_ascii": "Dahuk",
+      "lat": "36.8667",
+      "lng": "43.0",
+      "country": "Iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "admin_name": "Dahūk",
+      "capital": "admin",
+      "population": "986000.0",
+      "id": "1368137126",
+      "datetime": "621"
+    },
+    {
+      "city": "Erbil",
+      "city_ascii": "Erbil",
+      "lat": "36.179",
+      "lng": "44.0086",
+      "country": "Iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "admin_name": "Arbīl",
+      "capital": "admin",
+      "population": "926000.0",
+      "id": "1368578192",
+      "datetime": "654"
+    },
+    {
+      "city": "As Sulaymānīyah",
+      "city_ascii": "As Sulaymaniyah",
+      "lat": "35.5613",
+      "lng": "45.4309",
+      "country": "Iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "admin_name": "As Sulaymānīyah",
+      "capital": "admin",
+      "population": "723170.0",
+      "id": "1368735317",
+      "datetime": "818"
+    },
+    {
+      "city": "Kirkuk",
+      "city_ascii": "Kirkuk",
+      "lat": "35.4722",
+      "lng": "44.3923",
+      "country": "Iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "admin_name": "Kirkūk",
+      "capital": "admin",
+      "population": "601433.0",
+      "id": "1368344172",
+      "datetime": "913"
+    }
+  ],
+  "Turkey": [
+    {
+      "city": "Adana",
+      "city_ascii": "Adana",
+      "lat": "36.995",
+      "lng": "35.32",
+      "country": "Turkey",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "admin_name": "Adana",
+      "capital": "admin",
+      "population": "1293000.0",
+      "id": "1792783772",
+      "datetime": "371"
+    },
+    {
+      "city": "Gaziantep",
+      "city_ascii": "Gaziantep",
+      "lat": "37.075",
+      "lng": "37.385",
+      "country": "Turkey",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "admin_name": "Gaziantep",
+      "capital": "admin",
+      "population": "1044000.0",
+      "id": "1792911843",
+      "datetime": "472"
+    },
+    {
+      "city": "Diyarbakır",
+      "city_ascii": "Diyarbakir",
+      "lat": "37.9204",
+      "lng": "40.23",
+      "country": "Turkey",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "admin_name": "Diyarbakır",
+      "capital": "admin",
+      "population": "644763.0",
+      "id": "1792536241",
+      "datetime": "877"
+    },
+    {
+      "city": "Kayseri",
+      "city_ascii": "Kayseri",
+      "lat": "38.735",
+      "lng": "35.49",
+      "country": "Turkey",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "admin_name": "Kayseri",
+      "capital": "admin",
+      "population": "592840.0",
+      "id": "1792945815",
+      "datetime": "933"
+    }
+  ]
+}

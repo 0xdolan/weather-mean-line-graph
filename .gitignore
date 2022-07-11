@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 # EXTRA FILES
-*.json
 *.csv
 *.zip
 *.ipynb
