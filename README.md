@@ -30,6 +30,8 @@ Kayseri|[**Qeyserî**](https://ku.wikipedia.org/wiki/Qeyser%C3%AE)|قەیسەر�
 Orumiyeh|[**Ûrmiye**](https://ku.wikipedia.org/wiki/%C3%9Brmiye)|ورمێ
 
 
+- *Check the extracted s[**cities.json**](./cities.json) file to acquire all the information supplied for each city in the dataset.*
+
 [![kurdish_cities](./graphs/kurdish_cities.svg)](./graphs/kurdish_cities.pdf)
 
 ---
