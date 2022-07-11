@@ -11,7 +11,8 @@ The mean annual temperature refers to the average of the maximum and minimum tem
 
 ***Notes:***
 - *Kurdish city names were spelled precisely as they appeared in the data, with no deliberate changes made.*
--  *The following table lists all of the cities that were included in the dataset.*
+- *The following table lists all of the cities that were included in the dataset.*
+- *recorded temperatures are in degrees **Celsius(°C)***
 
 ### Kurdish Cities (in English, [**Kurdish (ku)**](https://ku.wikipedia.org/wiki/Kurmanc%C3%AE) and [**Kurdish (ckb)**](https://ckb.wikipedia.org/wiki/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%DB%8C_%D9%86%D8%A7%D9%88%DB%95%D9%86%D8%AF%DB%8C)):
 
@@ -39,7 +40,10 @@ Orumiyeh|[**Ûrmiye**](https://ku.wikipedia.org/wiki/%C3%9Brmiye)|ورمێ
 ---
 
 ## Specific day of the highest temperature between 1980 to 2020
-|City|Date|Maximum Temperature|
+
+- On **July 28, 2011**, **Kirkuk** recorded the highest temperature of **41.9** degrees Celsius.
+
+|City|Date|Maximum Temperature (°C)|
 |---|---|---|
 Adana|1998-08-07|34.78
 Gaziantep|1998-07-23|34.43
@@ -55,7 +59,7 @@ Orumiyeh|2018-07-12|30.52
 ---
 
 ## Specific date of the lowest temperature between 1980 to 2020
-|City|Date|Minimum Temperature|
+|City|Date|Minimum Temperature (°C)|
 |---|---|---|
 Adana|2008-01-14|-0.22
 Gaziantep|1997-02-05|-8.84
